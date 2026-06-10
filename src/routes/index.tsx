@@ -111,7 +111,7 @@ function Hero() {
           </p>
           <ul className="grid sm:grid-cols-2 gap-3 mb-10">
             {[
-              "Redução drástica do tempo operacional",
+              "Redução do tempo operacional",
               "Menos erros humanos",
               "Histórico completo de auditoria",
               "Métricas em tempo real",
